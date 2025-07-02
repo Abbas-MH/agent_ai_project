@@ -1,4 +1,4 @@
-# Vector search is a database; it's gonna be hosted locally on our own computer using something called ChromaDB.
+# Vector Search is a database; it's gonna be hosted locally on our own computer using something called ChromaDB.
 
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
